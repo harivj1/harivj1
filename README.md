@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan Vijay Iswaran</h1>
-<h3 align="center">lifelong learner //A Cybersecurity enthusiast from India</h3>
+<h3 align="center">lifelong learner // A Cybersecurity enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Active directory penetration testing.**
 
