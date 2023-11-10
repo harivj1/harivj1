@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iswaranh@gmail.com**
 
-- ⚡ Fun fact **People think they are wise!**
+- ⚡ Fun fact:**People think they are wise!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
