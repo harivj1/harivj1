@@ -102,8 +102,15 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 
 ### 🎓 Education
 
-- **M.S. Cybersecurity** — University of North Carolina at Charlotte *(Aug 2024 – May 2026)*, GPA 3.90/4.00
-- **B.Tech, Information Technology** — SRM IST Chennai *(Sep 2020 – May 2024)*, GPA 8.97/10.00
+<p>
+  <img src="./assets/unc-charlotte-logo.png" alt="UNC Charlotte logo" height="40" valign="middle"/>&nbsp;&nbsp;
+  <b>M.S. Cybersecurity</b> — University of North Carolina at Charlotte <i>(Aug 2024 – May 2026)</i>, GPA 3.90/4.00
+</p>
+
+<p>
+  <img src="./assets/srm-logo.png" alt="SRM IST Chennai logo" height="40" valign="middle"/>&nbsp;&nbsp;
+  <b>B.Tech, Information Technology</b> — SRM IST Chennai <i>(Sep 2020 – May 2024)</i>, GPA 8.97/10.00
+</p>
 
 ---
 
