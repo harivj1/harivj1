@@ -29,12 +29,59 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 
 ### 🛠️ Skills
 
-**Detection & Monitoring:** SIEM (ELK Stack), KQL, Log Analysis, Threat Detection, Incident Investigation
-**Network & Protocols:** TCP/IP, DNS, SSL/TLS, NetFlow Analysis, Packet Analysis (Wireshark)
-**Security Tools:** Nmap, Nessus, Burp Suite, OWASP ZAP, SQLMap, Metasploit, Wireshark, Kali Linux
-**Systems & Infrastructure:** Linux, Windows, Active Directory, IAM, SSO, System Hardening
-**Cloud & Platforms:** AWS (IAM, EC2, S3, Security Groups)
-**Scripting/Programming:** Python, Bash, PowerShell, SQL, C, JavaScript, HTML, CSS
+**Detection & Monitoring**
+<br/>
+![Elasticsearch](https://img.shields.io/badge/SIEM%20(ELK%20Stack)-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-4B5563?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-4B5563?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-4B5563?style=flat-square)
+![Incident Investigation](https://img.shields.io/badge/Incident%20Investigation-4B5563?style=flat-square)
+
+**Network & Protocols**
+<br/>
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B5563?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-4B5563?style=flat-square)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4B5563?style=flat-square)
+![NetFlow Analysis](https://img.shields.io/badge/NetFlow%20Analysis-4B5563?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Security Tools**
+<br/>
+![Nmap](https://img.shields.io/badge/Nmap-4B5563?style=flat-square&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-4B5563?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-4B5563?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-4B5563?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+**Systems & Infrastructure**
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-4B5563?style=flat-square)
+![SSO](https://img.shields.io/badge/SSO-4B5563?style=flat-square)
+![System Hardening](https://img.shields.io/badge/System%20Hardening-4B5563?style=flat-square)
+
+**Cloud & Platforms**
+<br/>
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security%20Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Scripting & Programming**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
