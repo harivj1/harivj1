@@ -70,22 +70,6 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 | AWS Certified Solutions Architect – Associate | AWS | Dec 2024 |
 | AWS Academy Cloud Architecting | AWS | Dec 2024 |
 | Google Cybersecurity Specialization | Google Career Certificates | Sep 2024 |
-| Practical Ethical Hacking – The Complete Course | TCM Security | Aug 2023 |
-| Practical Web Application Security and Testing | TCM Security | Nov 2023 |
-| Practical Web Hacking | TCM Security | Nov 2024 |
-| Practical Help Desk | TCM Security | Nov 2024 |
-| Windows Privilege Escalation for Beginners | TCM Security | Dec 2024 |
-| Linux Privilege Escalation for Beginners | TCM Security | Dec 2024 |
-| Detection Engineering for Beginners | TCM Security | Dec 2024 |
-| Security Operations (SOC) 101 | TCM Security | Dec 2024 |
-| Foundations of Project Management | Google Career Certificates | Jan 2023 |
-| Project Initiation: Starting a Successful Project | Google Career Certificates | Feb 2023 |
-| Project Planning: Putting It All Together | Google Career Certificates | Jun 2023 |
-| Prepare for CompTIA Security+ (SY0-601) | LinkedIn Learning | Aug 2023 |
-| Intro to Cybersecurity Learning Path | TryHackMe | Apr 2023 |
-| Pre Security Learning Path | TryHackMe | Apr 2023 |
-| Java (Basics) | HackerRank | May 2023 |
-| Programming in Java | NPTEL | — |
 
 ---
 
