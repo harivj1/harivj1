@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/eJPTv2-Certified-2b6cb0?style=flat-square" alt="eJPTv2"/>
   <img src="https://img.shields.io/badge/AWS%20SAA-Certified-orange?style=flat-square" alt="AWS SAA"/>
-  <img src="https://img.shields.io/badge/PJPT-INE%20Security-6b46c1?style=flat-square" alt="PJPT"/>
   <img src="https://img.shields.io/badge/OSCP-In%20Progress-red?style=flat-square" alt="OSCP In Progress"/>
 </p>
 
@@ -110,10 +109,15 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 
 ### 📜 Licenses & Certifications
 
+<p align="center">
+  <img src="./assets/ejpt-badge.png" alt="eJPTv2 - Junior Penetration Tester" height="140"/>
+  <img src="./assets/aws-saa-badge.png" alt="AWS Certified Solutions Architect - Associate" height="140"/>
+  <img src="./assets/aws-academy-cloud-architecting.png" alt="AWS Academy Cloud Architecting" height="140"/>
+</p>
+
 | Certification | Issuer | Issued |
 |---|---|---|
-| Junior Penetration Tester (PJPT) | INE Security | Feb 2026 |
-| eJPTv2 | INE Security | — |
+| eJPTv2 (Junior Penetration Tester) | INE Security | Feb 2026 |
 | AWS Certified Solutions Architect – Associate | AWS | Dec 2024 |
 | AWS Academy Cloud Architecting | AWS | Dec 2024 |
 | Google Cybersecurity Specialization | Google Career Certificates | Sep 2024 |
