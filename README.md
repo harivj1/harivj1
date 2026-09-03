@@ -113,6 +113,7 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
   <img src="./assets/ejpt-badge.png" alt="eJPTv2 - Junior Penetration Tester" height="140"/>
   <img src="./assets/aws-saa-badge.png" alt="AWS Certified Solutions Architect - Associate" height="140"/>
   <img src="./assets/aws-academy-cloud-architecting.png" alt="AWS Academy Cloud Architecting" height="140"/>
+  <img src="./assets/google-cybersecurity-badge.png" alt="Google Cybersecurity Specialization" height="140"/>
 </p>
 
 | Certification | Issuer | Issued |
