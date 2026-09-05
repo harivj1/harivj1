@@ -75,18 +75,9 @@ Currently focused on offensive security — hacking into systems, networks, web 
 
 ---
 
-### 💼 Selected Work
-
-```bash
-$ cat experience.log
-
-[Oct 2025 → May 2026] Technical Linux Specialist @ UNC Charlotte
-├─ Migrated 100+ workstations off EOL Linux, hardened fleet to security standards
-├─ Monitored AWX/Ansible deployments, resolving failed installs, maintaining secure-imaging pipeline
-├─ Managed identity & access control (Grouper) across 100+ reimaged/onboarded workstations
-├─ Audited and decommissioned 25+ unmanaged workstations, reducing endpoint exposure
-└─ Delivered Tier 1/2 support, resolving 15+ tickets weekly
-```
+![Workstations Migrated](https://img.shields.io/badge/Workstations%20Migrated-100+-2b6cb0?style=flat-square)
+![Endpoints Decommissioned](https://img.shields.io/badge/Endpoints%20Decommissioned-25+-2b6cb0?style=flat-square)
+![Tickets Resolved Weekly](https://img.shields.io/badge/Tickets%2FWeek-15+-2b6cb0?style=flat-square)
 
 ### 🎓 Education
 
