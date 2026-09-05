@@ -21,7 +21,7 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 
 🔭 Currently working toward **OSCP**
 🌱 Also exploring KLCP and OSWP as part of a broader certification roadmap
-💬 Open to SOC Analyst, Security Engineer, and Penetration Tester roles
+💬 Open to Penetration Tester and Security Engineer roles
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hariharan-vijay-iswaran-/)
 
 ---
