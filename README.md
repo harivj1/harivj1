@@ -79,7 +79,7 @@ Currently focused on offensive security — hacking into systems, networks, web 
 
 **Technical Linux Specialist** — University of North Carolina at Charlotte *(Oct 2025 – May 2026)*
 - Led migration of 100+ workstations off EOL Linux versions and hardened the fleet to security standards
-- Monitored AWX/Ansible deployments, diagnosing and resolving failed installs to maintain a reliable secure-imaging pipeline
+- Monitored AWX/Ansible deployments, diagnosing and resolving failed installs, maintaining a reliable secure-imaging pipeline
 - Managed identity & access control (Grouper) across 100+ reimaged/onboarded workstations
 - Audited and decommissioned 25+ unmanaged workstations, reducing unmonitored endpoint exposure
 - Delivered Tier 1/2 support on-site and remotely, resolving 15+ tickets weekly
