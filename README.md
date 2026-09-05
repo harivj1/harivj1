@@ -95,9 +95,11 @@ Currently focused on offensive security — hacking into systems, networks, web 
 
 ---
 
-![Workstations Migrated](https://img.shields.io/badge/Workstations%20Migrated-100+-2b6cb0?style=flat-square)
-![Endpoints Decommissioned](https://img.shields.io/badge/Endpoints%20Decommissioned-25+-2b6cb0?style=flat-square)
-![Tickets Resolved Weekly](https://img.shields.io/badge/Tickets%2FWeek-15+-2b6cb0?style=flat-square)
+### 💼 Career Highlights
+
+| Role | Company | Dates | Key Impact |
+|---|---|---|---|
+| Technical Linux Specialist | UNC Charlotte | Oct 2025 – May 2026 | • Migrated and managed 100+ workstations<br>• Decommissioned 25+ unmanaged endpoints<br>• Resolved 15+ tickets weekly |
 
 
 ### 📜 Licenses & Certifications
