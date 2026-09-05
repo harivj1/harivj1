@@ -64,13 +64,6 @@ I specialize in identifying, exploiting, and remediating vulnerabilities — web
 ![SSO](https://img.shields.io/badge/SSO-4B5563?style=flat-square)
 ![System Hardening](https://img.shields.io/badge/System%20Hardening-4B5563?style=flat-square)
 
-**Cloud & Platforms**
-<br/>
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Security Groups](https://img.shields.io/badge/Security%20Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 **Scripting & Programming**
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
