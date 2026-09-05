@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hariharan Vijay Iswaran 👋</h1>
-<h3 align="center">Aspiring Security Engineer | M.S. Cybersecurity | SOC & Pentesting (Web & AD)</h3>
+<h3 align="center">Aspiring Security Engineer | M.S. Cybersecurity | Pentesting (Web & AD)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/eJPTv2-Certified-2b6cb0?style=flat-square" alt="eJPTv2"/>
