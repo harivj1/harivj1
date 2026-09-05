@@ -14,10 +14,8 @@
 ---
 
 ### 🧠 About Me
-
-I'm an aspiring **Security Engineer / SOC Analyst / Penetration Tester** with an M.S. in Cybersecurity from UNC Charlotte (GPA 3.90/4.00) and a B.Tech in Information Technology from SRM IST Chennai. My focus areas are **web application pentesting, Active Directory attacks, and SOC log analysis**.
-
-I specialize in identifying, exploiting, and remediating vulnerabilities — web app pentesting (XSS, CSRF, SQLi, OWASP Top 10), secure code review, and detailed findings reporting. I build hands-on experience through home labs, TryHackMe, and Hack The Box, simulating real-world attack and defense scenarios, and have SIEM/log analysis experience using the ELK Stack (Elasticsearch, Logstash, Kibana) — ingesting logs, building dashboards, and detecting malicious activity.
+I'm currently interning as a **Security Engineer**, and previously worked as a **Technical Linux Specialist** with University IT support.
+Currently focused on offensive security — hacking into systems, networks, web apps, and Active Directory (ethically), finding real weaknesses and helping develop defense mechanisms before they become real breaches.
 
 🔭 Currently working toward **OSCP**
 🌱 Also exploring KLCP and OSWP as part of a broader certification roadmap
