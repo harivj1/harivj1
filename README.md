@@ -83,12 +83,6 @@ Currently focused on offensive security — hacking into systems, networks, web 
 - Managed identity & access control (Grouper) across 100+ reimaged/onboarded workstations
 - Audited and decommissioned 25+ unmanaged workstations, reducing unmonitored endpoint exposure
 - Delivered Tier 1/2 support on-site and remotely, resolving 15+ tickets weekly
-
-**Graduate Instructional Assistant** — University of North Carolina at Charlotte *(Jan 2025 – May 2025)*
-- Developed Python and cryptography solution keys for ITCS 5010 (Bitcoin: Programming the Future of Money)
-- Mentored 25 students weekly on Python and cryptography programming issues
-- Managed course logistics (Canvas/Gradescope), handling sensitive academic records with confidentiality
-
 ---
 
 ### 🎓 Education
