@@ -75,11 +75,11 @@ Currently focused on offensive security — hacking into systems, networks, web 
 
 ---
 
-### 💼 Selected Work
+### 💼 Career Highlights
 
 | Role | Company | Dates | Key Impact |
 |---|---|---|---|
-| Technical Linux Specialist | UNC Charlotte | Oct 2025 – May 2026 | Migrated and managed 100+ workstations<br>Decommissioned 25+ unmanaged endpoints<br>Resolved 15+ tickets weekly |
+| Technical Linux Specialist | UNC Charlotte | Oct 2025 – May 2026 | • Migrated and managed 100+ workstations<br>• Decommissioned 25+ unmanaged endpoints<br>• Resolved 15+ tickets weekly |
 
 ### 🎓 Education
 
@@ -94,13 +94,6 @@ Currently focused on offensive security — hacking into systems, networks, web 
 </p>
 
 ---
-
-### 💼 Career Highlights
-
-| Role | Company | Dates | Key Impact |
-|---|---|---|---|
-| Technical Linux Specialist | UNC Charlotte | Oct 2025 – May 2026 | • Migrated and managed 100+ workstations<br>• Decommissioned 25+ unmanaged endpoints<br>• Resolved 15+ tickets weekly |
-
 
 ### 📜 Licenses & Certifications
 
