@@ -75,10 +75,6 @@ Currently focused on offensive security — hacking into systems, networks, web 
 
 ---
 
-![Workstations Migrated](https://img.shields.io/badge/Workstations%20Migrated-100+-2b6cb0?style=flat-square)
-![Endpoints Decommissioned](https://img.shields.io/badge/Endpoints%20Decommissioned-25+-2b6cb0?style=flat-square)
-![Tickets Resolved Weekly](https://img.shields.io/badge/Tickets%2FWeek-15+-2b6cb0?style=flat-square)
-
 ### 🎓 Education
 
 <p>
