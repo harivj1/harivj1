@@ -123,7 +123,6 @@ Currently focused on offensive security — hacking into systems, networks, web 
 ---
 
 <p align="center"><i>Thanks for stopping by — always happy to connect with fellow cybersecurity folks and recruiters!</i></p>
-### 📫 Contact
 
 <p align="center">
   <a href="mailto:iswaranh@gmail.com"><img src="https://img.shields.io/badge/Gmail-iswaranh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
